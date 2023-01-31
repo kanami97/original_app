@@ -1,0 +1,42 @@
+
+/* Class = "UITabBarItem"; title = "アカウント"; ObjectID = "485-pE-jxz"; */
+"485-pE-jxz.title" = "アカウント";
+
+/* Class = "UITabBarItem"; title = "予約"; ObjectID = "8Wy-Lc-0xS"; */
+"8Wy-Lc-0xS.title" = "予約";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BVz-9X-9jZ"; */
+"BVz-9X-9jZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Fxp-3d-X8s"; */
+"Fxp-3d-X8s.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "お気に入り"; ObjectID = "JFa-58-WLT"; */
+"JFa-58-WLT.title" = "お気に入り";
+
+/* Class = "UINavigationItem"; title = "会員情報変更"; ObjectID = "LbC-Oa-O2N"; */
+"LbC-Oa-O2N.title" = "会員情報変更";
+
+/* Class = "UINavigationItem"; title = "空席ボタン"; ObjectID = "N4H-RL-tcf"; */
+"N4H-RL-tcf.title" = "空席ボタン";
+
+/* Class = "UINavigationItem"; title = "お知らせ"; ObjectID = "PVN-EF-gia"; */
+"PVN-EF-gia.title" = "お知らせ";
+
+/* Class = "UINavigationItem"; title = "閲覧履歴"; ObjectID = "UPJ-iv-jWa"; */
+"UPJ-iv-jWa.title" = "閲覧履歴";
+
+/* Class = "UITabBarItem"; title = "検索"; ObjectID = "X6V-Dz-4h9"; */
+"X6V-Dz-4h9.title" = "検索";
+
+/* Class = "UIButton"; configuration.title = "空席"; ObjectID = "faG-XD-zq2"; */
+"faG-XD-zq2.configuration.title" = "空席";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "faG-XD-zq2"; */
+"faG-XD-zq2.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "アプリ設定変更"; ObjectID = "ktR-7B-51O"; */
+"ktR-7B-51O.title" = "アプリ設定変更";
+
+/* Class = "UITabBarItem"; title = "home"; ObjectID = "nLg-WP-R0d"; */
+"nLg-WP-R0d.title" = "home";
